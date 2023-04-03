@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡️ Game hackers tend to be better anti cheat developers.
+⚡️ better anti cheat developers.
 
 
 ## 🌐 Socials:
