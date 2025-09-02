@@ -10,4 +10,4 @@ Pay respect to [Digital Insanity](https://www.youtube.com/watch?v=0dCPcdpRUkA).
 
 ![](https://github-readme-stats.vercel.app/api?username=dvGrab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=dvGrab&icon=0&color=0)](https://visitcount.itsvg.in)
+![dvgrab's Stats](https://github-readme-stats.vercel.app/api?username=dvgrab&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
